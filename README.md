@@ -14,7 +14,13 @@ highlighted and the content of the view changes based on the selected tab.
 
 ## Demo
 
-![Demo](widget.gif)
+## 示例
+
+<img src="widget.gif" alt="Demo" width="500">
+
+## 翻译
+
+- [中文](README.zh.md)
 
 The project consists of two main Dart files:
 
